@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+
+    width: 365px;
+    height: 606px;
+    margin: 150px auto;
+    border: 1px;
+    background-color: #F3F3F3;
+    padding: 30px 50px 50px;
+    border-radius:10px;
+}
+
+.img{
+
+    border-radius: 10px;
+}
+
+.p{   
+    color:#D2D2D2;
+}
+
+.a{
+    margin-left: 200px;
+    color: blue;
+}
